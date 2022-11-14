@@ -1,0 +1,1 @@
+We've done %b and %S, also we fully completed the precision and width flags.
